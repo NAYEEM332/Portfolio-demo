@@ -4,12 +4,13 @@
 }
 .Btn-details {
   height: 60px;
-  width: 150px;
+  width: 170px;
   color: white;
   background-color: #fd6e0a;
-  padding: 15px 30px;
+  padding: 15px 15px;
   border: none;
   margin-top: 30px;
+  font-size: 18px;
 }
 /* header style */
 .header {
@@ -58,7 +59,7 @@ nav li {
   color: #757575;
 }
 main {
-  max-width: 1140px;
+  width: 1140px;
   margin: 0 auto;
 }
 /* section styles */
@@ -95,3 +96,76 @@ main {
   font-size: 20px;
 }
 /* What i do styles */
+.what-i-do {
+  margin: 120px;
+  text-align: center;
+  font-weight: 700;
+  font-size: 35px;
+}
+.skill-container {
+  display: flex;
+  gap: 15px;
+}
+.skill {
+  margin: 20px;
+  background: #ffffff;
+  box-shadow:0px 0px 10px #c9bcbc79;
+  border-radius: 5px;
+  padding: 30px;
+}
+.skill-title {
+  font-size: 20px;
+  font-weight: 700;
+  margin-top: 20px;
+  margin-bottom: 30px;
+}
+/* resume */
+.resume-content{
+    display: flex;
+    gap: 20px;
+}
+.resume-title{
+    font-size: 30px;
+    font-weight: 700;
+    margin-top: 10px;
+}
+.resume-title2{
+    font-size: 26px;
+    margin-top: 10px;
+}
+.resume-title3{
+    font-size: 20px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+.resume-title4{
+    color: #757575;
+    margin-bottom: 20px;
+}
+.resume-button{
+    margin-top: 50px;
+    text-align: center;
+}
+.contact{
+    display: flex;
+    gap: 20px;
+    background: #FFF8F3;
+    max-width: 1600px;
+    padding: 120px 150px;
+
+}
+.contact-title{
+    font-size: 35px;
+    font-weight: 700;
+}
+.one{
+    margin-top: 20px;
+    height: 40px;
+    width: 250px;
+}
+.two{
+    margin-top: 20px;
+}
+a{
+    text-decoration: none;
+}
