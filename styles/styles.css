@@ -1,0 +1,24 @@
+* {
+    margin: 0px;
+    font-family: 'Open Sans', sans-serif;
+}
+/* navigation and styles */
+nav{
+    display: flex;
+    justify-content: space-between;
+    margin: 50px;
+}
+.nav-title {
+    font-weight: 800;
+    font-size: 45px;
+}
+nav ul{
+    display: flex;
+}
+nav li{
+    list-style: none;
+    margin-left: 50px;
+}
+.text-primary{
+    color:#FD6E0A;
+}
