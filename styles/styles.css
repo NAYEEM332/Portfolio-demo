@@ -109,7 +109,7 @@ main {
 .skill {
   margin: 20px;
   background: #ffffff;
-  box-shadow:0px 0px 10px #c9bcbc79;
+  box-shadow: 0px 0px 10px #c9bcbc79;
   border-radius: 5px;
   padding: 30px;
 }
@@ -120,58 +120,55 @@ main {
   margin-bottom: 30px;
 }
 /* resume */
-.resume-content{
-    display: flex;
-    gap: 20px;
+.resume-content {
+  display: flex;
+  gap: 20px;
 }
-.resume-title{
-    font-size: 30px;
-    font-weight: 700;
-    margin-top: 10px;
+.resume-title {
+  font-size: 30px;
+  font-weight: 700;
+  margin-top: 10px;
 }
-.resume-title2{
-    font-size: 26px;
-    margin-top: 10px;
+.resume-title2 {
+  font-size: 26px;
+  margin-top: 10px;
 }
-.resume-title3{
-    font-size: 20px;
-    margin-top: 10px;
-    margin-bottom: 10px;
+.resume-title3 {
+  font-size: 20px;
+  margin-top: 10px;
+  margin-bottom: 10px;
 }
-.resume-title4{
-    color: #757575;
-    margin-bottom: 20px;
+.resume-title4 {
+  color: #757575;
+  margin-bottom: 20px;
 }
-.resume-button{
-    margin-top: 50px;
-    text-align: center;
+.resume-button {
+  margin-top: 50px;
+  text-align: center;
 }
-.contact{
-    display: flex;
-    gap: 20px;
-    background: #FFF8F3;
-    max-width: 1600px;
-    padding: 120px 150px;
-
+.contact {
+  display: flex;
+  gap: 20px;
+  background: #fff8f3;
+  max-width: 1600px;
+  padding: 120px 150px;
 }
-.contact-title{
-    font-size: 35px;
-    font-weight: 700;
+.contact-title {
+  font-size: 35px;
+  font-weight: 700;
 }
-.one{
-    margin-top: 20px;
-    height: 40px;
-    width: 250px;
+.one {
+  margin-top: 20px;
+  height: 40px;
+  width: 250px;
 }
-.two{
-    margin-top: 20px;
+.two {
+  margin-top: 20px;
 }
-a{
-    text-decoration: none;
+a {
+  text-decoration: none;
 }
-@media screen and (max-width:576px) {
-  
+@media screen and (max-width: 576px) {
 }
-@media screen and (min-width:577px) and (max-width:992px) {
-  
+@media screen and (min-width: 577px) and (max-width: 992px) {
 }
